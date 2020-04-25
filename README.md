@@ -1,2 +1,2 @@
-# Coursera_Capstone
+# Toronto_Neighborhoods
 Assignment for Capstone Coursera
