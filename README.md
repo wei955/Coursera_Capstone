@@ -1,2 +1,2 @@
 # Toronto_Neighborhoods
-Assignment for Capstone Coursera
+Cousera Applied Data Science Capstone Project 
